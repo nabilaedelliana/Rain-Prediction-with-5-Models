@@ -1,0 +1,9 @@
+waitress
+pandas
+numpy
+seaborn
+matplotlib
+scikitlearn
+warnings
+flask
+scikit-learn==1.0.2
